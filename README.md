@@ -13,7 +13,7 @@
  <img align="center" alt="Thiago-Pytorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
  <img align="center" alt="Thiago-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
  <img align="center" alt="Thiago-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
- <img align="right" alt="Thiago-Selenium" height="90" width="90" src="https://github.com/Thiago-Marangoni/Thiago-Marangoni/assets/57115524/5b28d100-6a04-4e81-b40c-18b0fef070ac">
+
  
 
 </div>
