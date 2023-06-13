@@ -33,4 +33,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Marangoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/Thiago-Marangoni/Thiago-Marangoni/blob/output/github-contribution-grid-snake.svg)
