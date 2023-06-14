@@ -5,13 +5,14 @@
 
 
 ### Olá ! Eu sou o Thiago Marangoni 👋
-
- <img align="right" alt="Thiago-Mario" height="200" width="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Thiago-Mario" height="200" width="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+ 
 
 - 🔭 Hoje trabalho com Business Intelligence
 - 🌱 Estudando Ciência de Dados e Inteligência Artificial
 - 💬 Contate-me no email: thiagorx2502@gmail.com
 - 😄 Pronomes: ele/dele
+
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
