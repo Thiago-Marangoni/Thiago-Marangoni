@@ -11,7 +11,7 @@
 - 🔭 Hoje trabalho com Business Intelligence
 - 🌱 Estudando Ciência de Dados e Inteligência Artificial
 - 💬 Contate-me no email: thiagorx2502@gmail.com
-- 😄 Pronomes: ele/dele
+
 
 
 <div style="display: inline_block"><br>
