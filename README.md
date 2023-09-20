@@ -22,6 +22,9 @@
  <img align="center" alt="Thiago-Pytorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
  <img align="center" alt="Thiago-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
  <img align="center" alt="Thiago-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+ <img align="center" alt="Thiago-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+           
+          
 
  
 
