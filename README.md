@@ -8,7 +8,7 @@
 <img align="right" alt="Thiago-Mario" height="200" width="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
  
 
-- 🔭 Hoje trabalho com Business Intelligence
+- 🔭 Data Analyst
 - 🌱 Estudando Ciência de Dados e Inteligência Artificial
 - 💬 Contate-me no email: thiagorx2502@gmail.com
 
